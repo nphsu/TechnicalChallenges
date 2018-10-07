@@ -99,7 +99,7 @@ Java欄で記載した`Spring WebFlux`で`ノンブロッキングIO`を目指�
 
 ### Kubernetes
 
-## AWS
+## 7. AWS
 ### ElasticBeanstalk
 ### Lambda
 ### ElasticContainerService
@@ -109,22 +109,29 @@ Java欄で記載した`Spring WebFlux`で`ノンブロッキングIO`を目指�
 ### SNS
 ### CodePipeline
 
-## Firebase
+### Firebase
 
-## 7. Blockchain
+## 8. Blockchain
 
 ### Ethereum
-- ERC20/ERC721/ERC1155
 
-## 8. AR
+仮想通貨ウォレットシステムに携わる中で、Dapps開発の魅力を感じEthereumを深掘り。独自トークンを簡単に発行できる`ERC20`という規格をベースに、`MetaMask`でアドレス発行、`Truffle`でビルドデプロイ、`Remix`で開発（途中からTruffleをやめRemixに完全移行）、`Ganache`でローカル環境構築、`OpenZeppelin`というライブラリの使用など一通りのEthereum Dapps関連技術を独習。
+
+キャラクターの保持可能が魅力となる`ERC721`に沿ってアイテム開発していたが、その後登場した`ERC1155`がERC20とERC721の両者を取り入れた規格であり、ERC1155を使用して社内トークンシステムのブロックチェーン部分を開発。
+
+## 9. Game
+
 ### Unity(C#)
+
 ### SceneKit(Swift)
 
-## 9. DevOps
+## 10. DevOps
+
 ### CICD
+
 ### Monitering
 
-## 10. Architecture
+## 11. Architecture
 ### Serverless
 ### Microservices
 ### DDD
