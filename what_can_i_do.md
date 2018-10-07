@@ -1,14 +1,14 @@
 # What can I do?
+私は何ができるのか。自分が過去に何をやっていたか忘れないよう、使ったあるいは学んだ技術を記録に残していく。
 
 ## Frontend
 
 ### Vue.js
+- ウォレットシステムの社内管理画面で作成。UIコンポーネントは`ElementUI`を使用。`Webpack`で`npm`スクリプトを記載。`vue-router`を使ったシンプルな`SPA`構成。
 
-#### ElementUI
+### Nuxt.js
 
-#### Nuxt.js
-
-#### Puppeteer
+### Puppeteer
 
 ## Backend
 
