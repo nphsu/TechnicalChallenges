@@ -1,7 +1,7 @@
 # What can I do?
 私は何ができるのか。自分が過去に何をやっていたか忘れないよう、使ったあるいは学んだ技術を記録に残していく。
 
-## 1. Frontend Programing
+## 1. Frontend Programming
 
 ### Vue.js
 
@@ -11,7 +11,7 @@
 
 ### Puppeteer
 
-## 2. Backend Programing
+## 2. Backend Programming
 
 ### Java
 
@@ -23,7 +23,7 @@
 
 同8月から初プロジェクトに参画。`SpringBoot`ベースのフルスクラッチ開発で、Springフレームワークや`JPA`、`Gradle`などのJava関連を学ぶ。
 
-続く仮想通貨ウォレットシステムでは、`Reactor`を実装した`SpringWebFlux`の導入に挑戦。既存技術との相性の悪さから１ヶ月で撤退したが、`ReactivePrograming`に触れた経験は貴重だった。
+続く仮想通貨ウォレットシステムでは、`Reactor`を実装した`SpringWebFlux`の導入に挑戦。既存技術との相性の悪さから１ヶ月で撤退したが、`Reactive Programming`に触れた経験は貴重だった。
 
 ### Node.js
 
@@ -47,7 +47,7 @@ CやC++を経験していない自分にとって、システムプログラミ�
 機械学習を勉強中の知り合いエンジニアと一緒にWebサービスを作る時使用したのがPythonの`Django`。
 
 
-## 3. Mobile Programing
+## 3. Mobile Programming
 
 ### Swift
 
