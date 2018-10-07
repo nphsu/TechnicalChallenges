@@ -99,7 +99,7 @@ Java欄で記載した`Spring WebFlux`で`ノンブロッキングIO`を目指�
 
 ### Kubernetes
 
-## 7. AWS
+## 7. Cloud
 ### ElasticBeanstalk
 ### Lambda
 ### ElasticContainerService
@@ -134,5 +134,5 @@ Java欄で記載した`Spring WebFlux`で`ノンブロッキングIO`を目指�
 ## 11. Architecture
 ### Serverless
 ### Microservices
-### DDD
+### DomainDrivenDesign
 ### CleanArchitecture
