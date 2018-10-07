@@ -1,7 +1,7 @@
 # What can I do?
 私は何ができるのか。自分が過去に何をやっていたか忘れないよう、使ったあるいは学んだ技術を記録に残していく。
 
-## Frontend
+## 1. Frontend Programing
 
 ### Vue.js
 
@@ -11,7 +11,7 @@
 
 ### Puppeteer
 
-## Backend
+## 2. Backend Programing
 
 ### Java
 
@@ -41,10 +41,15 @@
 ### Rust
 
 
+## 3. Mobile Programing
+### iOS
+### Android
+
+
 ### Python
 - (Django)
 
-## Database
+## 4. Database
 
 ### MySQL/MariaDB
 
@@ -66,13 +71,14 @@ Java欄で記載した`Spring WebFlux`で`ノンブロッキングIO`を目指�
 ### DynamoDB
 ### Neptune
 
-## Interface
+## 5.　ApplicationInterface
+
 ### REST
 ### GraphQL
 ### JSON-RPC
 ### gRPC
 
-## Containers
+## 6. Containers
 ### Docker Compose
 ### Docker Swarn
 
@@ -90,24 +96,20 @@ Java欄で記載した`Spring WebFlux`で`ノンブロッキングIO`を目指�
 
 ## Firebase
 
-## Blockchain
+## 7. Blockchain
 
 ### Ethereum
 - ERC20/ERC721/ERC1155
 
-## AR
+## 8. AR
 ### Unity(C#)
 ### SceneKit(Swift)
 
-## Mobiles
-### iOS
-### Android
-
-## DevOps
+## 9. DevOps
 ### CICD
 ### Monitering
 
-## Architecture
+## 10. Architecture
 ### Serverless
 ### Microservices
 ### DDD
